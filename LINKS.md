@@ -6,3 +6,7 @@ https://en.m.wikipedia.org/wiki/Aether_theories see 'Quantum vacuum'
 
 http://math.mit.edu/~edelman/publications/random_matrix_theory_innovative.pdf  
 https://terrytao.files.wordpress.com/2011/02/matrix-book.pdf  
+
+## Approximate Nearest Neighbor
+https://github.com/monochromegane/gannoy  
+https://github.com/rikonor/go-ann  
